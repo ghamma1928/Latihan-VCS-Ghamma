@@ -1,6 +1,7 @@
 Tugas Bahasa Pemograman
 
  1.Buatlah satu repository LatihanVCS
+ 
  2.Buat file README.md,lalu isi file tersebut dengan
    penjelasan (Tutorial) cara penggunaan Git, dan 
    langkah-langkahnya lengkapi juga dengan screenshot prosesnya.
